@@ -7,3 +7,4 @@ Giochi creati in Python - 4^C INF a.s. 2023/2024
 - Etch-a-sketch
 - Gara delle tartarughe
 - Snake
+- Indovina gli stati USA
